@@ -7,10 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 import funcoes
-import PySimpleGUI as sg
 
-driver = webdriver.Chrome(ChromeDriverManager().install())
-chrome_options = webdriver.ChromeOptions()
 
 def esperar_clicavel(variavel, driver):
     wait = WebDriverWait(driver, 10)  # defino uma variavel com a propriedade de esperar um determinado tempo
@@ -45,6 +42,7 @@ def trocar_localidade(localidade, bairro, driver):
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").click()
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").send_keys(localidade)
+
     esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").clear()
@@ -54,7 +52,6 @@ def trocar_localidade(localidade, bairro, driver):
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").send_keys(bairro)
 
 def pesq_exp(driver):
-
     esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
     driver.find_element(by=By.ID, value="form-filtroAcss-toolbox-btn-search").click()
     time.sleep(2)
@@ -64,14 +61,13 @@ def pesq_exp(driver):
     try:
         driver.find_element(by=By.ID, value="form-grid-grid-exportBtn-exportarxls").click()
         time.sleep(1)
-    except: print("Sem chances!")
+    except: print("Planilha extraida com Sucesso!")
 
 def gerar_datas():
-    data0 = input("Por favor digite o mes/ano desejado(mm/aaaa)")
+    data0 = input("Por favor digite o mes/ano desejado(mm/aaaa): ")
     data0 = data0.split("/")
 
     if data0[0] == "01":
-
         data = ["26/" + "12/" + str(int(data0[1]) - 1),
                 "10/" + data0[0] + "/" + str(int(data0[1])),
                 "11/" + data0[0] + "/" + str(int(data0[1])),
@@ -79,7 +75,6 @@ def gerar_datas():
                 ]
 
     else:
-
         data = ["26/" + str(int(data0[0]) - 1).rjust(2, "0") + "/" + data0[1],
                 "10/" + data0[0] + "/" + str(int(data0[1])),
                 "11/" + data0[0] + "/" + str(int(data0[1])),
@@ -89,8 +84,8 @@ def gerar_datas():
 
 def definitiva(filtro, data):
     # Declaração de Variaveis
-    user = "t094430"
-    passw = "Senha321"
+    user = "t034183"
+    passw = "CNB@2022"
 
     driver = webdriver.Chrome(ChromeDriverManager().install())
     chrome_options = webdriver.ChromeOptions()
