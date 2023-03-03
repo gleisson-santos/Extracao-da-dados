@@ -5,14 +5,15 @@ import threading
 #Acessar o filtro salvo 
 
 filtro = [
-    "form-filtroAcss-dlgFilterPrefs-tableUser-37-j_idt349"
-
+    "form-filtroAcss-dlgFilterPrefs-tableUser-37-j_idt349",
+    "form-filtroAcss-dlgFilterPrefs-tableUser-38-j_idt349"
     ]
 
 data = funcoes.gerar_datas()
 
 x = [
-    threading.Thread(target=funcoes.definitiva, args=[filtro[0], data])
+    threading.Thread(target=funcoes.definitiva, args=[filtro[0], data]),
+    threading.Thread(target=funcoes.definitiva, args=[filtro[1], data])
 
      ]
 i = 0
