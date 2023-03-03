@@ -1,4 +1,3 @@
-from dataclasses import dataclass
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
@@ -8,6 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 import funcoes
+import PySimpleGUI as sg
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
 chrome_options = webdriver.ChromeOptions()

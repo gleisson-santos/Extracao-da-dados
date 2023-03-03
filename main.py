@@ -12,7 +12,6 @@ filtro = [
     ]
 data = funcoes.gerar_datas()
 
-
 x = [
     threading.Thread(target=funcoes.definitiva, args=[filtro[0], data]),
     threading.Thread(target=funcoes.definitiva, args=[filtro[1], data]),
