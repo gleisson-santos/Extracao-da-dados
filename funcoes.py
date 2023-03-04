@@ -5,8 +5,11 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver import Firefox
 import time
 import funcoes
+import datetime
+
 
 
 def esperar_clicavel(variavel, driver):
@@ -63,35 +66,87 @@ def pesq_exp(driver):
         time.sleep(1)
     except: print("Planilha extraida com Sucesso!")
 
+# def gerar_datas():
+#     data0 = input("Por favor digite o mes/ano desejado(mm/aaaa): ")
+#     data0 = data0.split("/")
+
+#     if data0[0] == "01":
+#         data = ["26/" + "12/" + str(int(data0[1]) - 1),
+#                 "10/" + data0[0] + "/" + str(int(data0[1])),
+#                 "11/" + data0[0] + "/" + str(int(data0[1])),
+#                 "25/" + data0[0] + "/" + str(int(data0[1]))
+#                 ]
+
+#     else:
+#         data = ["26/" + str(int(data0[0]) - 1).rjust(2, "0") + "/" + data0[1],
+#                 "10/" + data0[0] + "/" + str(int(data0[1])),
+#                 "11/" + data0[0] + "/" + str(int(data0[1])),
+#                 "25/" + data0[0] + "/" + str(int(data0[1]))
+#                 ]
+#     return data
+
+# def gerar_datas():
+#     periodo = input("Por favor digite o período desejado no formato dd/mm/aaaa-dd/mm/aaaa ou mm/aaaa: ")
+#     partes = periodo.split("-")
+#     if len(partes) == 1:  # Extração por mês
+#         mes, ano = partes[0].split("/")
+#         if mes == "01":
+#             data = ["26/12/" + str(int(ano) - 1),
+#                     "10/01/" + ano,
+#                     "11/01/" + ano,
+#                     "25/01/" + ano]
+#         else:
+#             data = ["26/" + str(int(mes) - 1).rjust(2, "0") + "/" + ano,
+#                     "10/" + mes + "/" + ano,
+#                     "11/" + mes + "/" + ano,
+#                     "25/" + mes + "/" + ano]
+#     elif len(partes) == 2:  # Extração por período
+#         data_inicio = partes[0].split("/")
+#         data_fim = partes[1].split("/")
+#         data = []
+#         dia = datetime.date(int(data_inicio[2]), int(data_inicio[1]), int(data_inicio[0]))
+#         while dia <= datetime.date(int(data_fim[2]), int(data_fim[1]), int(data_fim[0])):
+#             data.append(dia.strftime("%d/%m/%Y"))
+#             dia += datetime.timedelta(days=1)
+#     else:
+#         print("Entrada inválida!")
+#         data = []
+#     return data
+
+
+from datetime import datetime, timedelta
+
 def gerar_datas():
-    data0 = input("Por favor digite o mes/ano desejado(mm/aaaa): ")
-    data0 = data0.split("/")
+    data_inicio = input("Por favor digite a data de início (dd/mm/aaaa): ")
+    data_fim = input("Por favor digite a data de fim (dd/mm/aaaa): ")
+    
+    data_inicio = datetime.strptime(data_inicio, '%d/%m/%Y')
+    data_fim = datetime.strptime(data_fim, '%d/%m/%Y')
+    
+    datas = []
+    delta = timedelta(days=1)
+    
+    while data_inicio <= data_fim:
+        dia = data_inicio.strftime('%d')
+        mes = data_inicio.strftime('%m')
+        ano = data_inicio.strftime('%Y')
+        datas.append(dia + "/" + mes + "/" + ano)
+        data_inicio += delta
+    
+    return datas
 
-    if data0[0] == "01":
-        data = ["26/" + "12/" + str(int(data0[1]) - 1),
-                "10/" + data0[0] + "/" + str(int(data0[1])),
-                "11/" + data0[0] + "/" + str(int(data0[1])),
-                "25/" + data0[0] + "/" + str(int(data0[1]))
-                ]
-
-    else:
-        data = ["26/" + str(int(data0[0]) - 1).rjust(2, "0") + "/" + data0[1],
-                "10/" + data0[0] + "/" + str(int(data0[1])),
-                "11/" + data0[0] + "/" + str(int(data0[1])),
-                "25/" + data0[0] + "/" + str(int(data0[1]))
-                ]
-    return data
 
 def definitiva(filtro, data):
     # Declaração de Variaveis
     user = "t034183"
     passw = "CNB@2022"
 
-    driver = webdriver.Chrome(ChromeDriverManager().install())
-    chrome_options = webdriver.ChromeOptions()
 
-    driver.get("http://sciweb.embasanet.ba.gov.br/sci-web/")
+    url = 'http://sciweb.embasanet.ba.gov.br/sci-web/'
+    driver = Firefox()
+    driver.get(url)
 
+    time.sleep(2)
     # Coletar a informação da tag aleatoria gerada pelo SCI
     randomtag = driver.find_element(by=By.ID, value="random-tag").get_attribute('value')
     driver.find_element(by=By.ID, value="loginForm-usuario-{randomtag}".format(randomtag=randomtag)).send_keys(user)
