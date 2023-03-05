@@ -8,7 +8,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver import Firefox
 import time
 import funcoes
-import datetime
+from datetime import datetime, timedelta
 
 
 
@@ -23,43 +23,43 @@ def abrir_filtro(filtro, driver):
     driver.find_element(by=By.ID, value=filtro).click()
 
 def filtro_data(data1, data2, driver):
-    time.sleep(1)
+    time.sleep(0.6)
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").clear()
-    time.sleep(1)
+    time.sleep(0.6)
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").click()
-    time.sleep(1)
+    time.sleep(0.6)
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").send_keys(data1)
-    time.sleep(1)
+    time.sleep(0.6)
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").clear()
-    time.sleep(1)
+    time.sleep(0.6)
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").click()
-    time.sleep(1)
+    time.sleep(0.6)
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").send_keys(data2)
-    time.sleep(1)
+    time.sleep(0.6)
 
 def trocar_localidade(localidade, bairro, driver):
     esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
-    time.sleep(1)
+    time.sleep(0.6)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").clear()
-    time.sleep(1)
+    time.sleep(0.6)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").click()
-    time.sleep(1)
+    time.sleep(0.6)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").send_keys(localidade)
 
     esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
-    time.sleep(1)
+    time.sleep(0.6)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").clear()
-    time.sleep(2)
-    driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").click()
     time.sleep(1)
+    driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").click()
+    time.sleep(0.6)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").send_keys(bairro)
 
 def pesq_exp(driver):
     esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
     driver.find_element(by=By.ID, value="form-filtroAcss-toolbox-btn-search").click()
-    time.sleep(2)
+    time.sleep(0.5)
     driver.find_element(by=By.ID, value="form-filtroAcss-toolbox-btn-search").click()
-    time.sleep(2)
+    time.sleep(0.5)
 
     try:
         driver.find_element(by=By.ID, value="form-grid-grid-exportBtn-exportarxls").click()
@@ -86,67 +86,51 @@ def pesq_exp(driver):
 #     return data
 
 # def gerar_datas():
-#     periodo = input("Por favor digite o período desejado no formato dd/mm/aaaa-dd/mm/aaaa ou mm/aaaa: ")
-#     partes = periodo.split("-")
-#     if len(partes) == 1:  # Extração por mês
-#         mes, ano = partes[0].split("/")
-#         if mes == "01":
-#             data = ["26/12/" + str(int(ano) - 1),
-#                     "10/01/" + ano,
-#                     "11/01/" + ano,
-#                     "25/01/" + ano]
-#         else:
-#             data = ["26/" + str(int(mes) - 1).rjust(2, "0") + "/" + ano,
-#                     "10/" + mes + "/" + ano,
-#                     "11/" + mes + "/" + ano,
-#                     "25/" + mes + "/" + ano]
-#     elif len(partes) == 2:  # Extração por período
-#         data_inicio = partes[0].split("/")
-#         data_fim = partes[1].split("/")
-#         data = []
-#         dia = datetime.date(int(data_inicio[2]), int(data_inicio[1]), int(data_inicio[0]))
-#         while dia <= datetime.date(int(data_fim[2]), int(data_fim[1]), int(data_fim[0])):
-#             data.append(dia.strftime("%d/%m/%Y"))
-#             dia += datetime.timedelta(days=1)
-#     else:
-#         print("Entrada inválida!")
-#         data = []
-#     return data
-
-
-from datetime import datetime, timedelta
-
-def gerar_datas():
-    data_inicio = input("Por favor digite a data de início (dd/mm/aaaa): ")
-    data_fim = input("Por favor digite a data de fim (dd/mm/aaaa): ")
+#     data_inicio = input("Por favor digite a data de início (dd/mm/aaaa): ")
+#     data_fim = input("Por favor digite a data de fim (dd/mm/aaaa): ")
     
-    data_inicio = datetime.strptime(data_inicio, '%d/%m/%Y')
-    data_fim = datetime.strptime(data_fim, '%d/%m/%Y')
+#     data_inicio = datetime.strptime(data_inicio, '%d/%m/%Y')
+#     data_fim = datetime.strptime(data_fim, '%d/%m/%Y')
+    
+#     datas = []
+#     delta = timedelta(days=1)
+    
+#     while data_inicio <= data_fim:
+#         dia = data_inicio.strftime('%d')
+#         mes = data_inicio.strftime('%m')
+#         ano = data_inicio.strftime('%Y')
+#         datas.append(dia + "/" + mes + "/" + ano)
+#         data_inicio += delta
+    
+#     return datas
+
+def gerar_datas(data_inicio_str, data_fim_str):
+
+    formato_data = '%d/%m/%Y'
+    data_inicio = datetime.strptime(data_inicio_str, formato_data)
+    data_fim = datetime.strptime(data_fim_str, formato_data)
     
     datas = []
     delta = timedelta(days=1)
-    
+
     while data_inicio <= data_fim:
-        dia = data_inicio.strftime('%d')
-        mes = data_inicio.strftime('%m')
-        ano = data_inicio.strftime('%Y')
-        datas.append(dia + "/" + mes + "/" + ano)
+        datas.append(data_inicio)
         data_inicio += delta
-    
+
     return datas
 
 
-def definitiva(filtro, data):
+
+def definitiva(filtro, datas):
     # Declaração de Variaveis
     user = "t034183"
     passw = "CNB@2022"
-
 
     url = 'http://sciweb.embasanet.ba.gov.br/sci-web/'
     driver = Firefox()
     driver.get(url)
 
-    time.sleep(2)
+    time.sleep(1)
     # Coletar a informação da tag aleatoria gerada pelo SCI
     randomtag = driver.find_element(by=By.ID, value="random-tag").get_attribute('value')
     driver.find_element(by=By.ID, value="loginForm-usuario-{randomtag}".format(randomtag=randomtag)).send_keys(user)
@@ -164,19 +148,23 @@ def definitiva(filtro, data):
 
     funcoes.abrir_filtro(filtro, driver)
 
-    funcoes.filtro_data(data[0], data[1], driver)
-    funcoes.trocar_localidade("700", "0", driver)
-    funcoes.pesq_exp(driver)
+    for i in range(0, len(datas) - 1, 2):
+        data_inicio = datas[i].strftime('%d/%m/%Y')
+        data_fim = datas[i + 1].strftime('%d/%m/%Y')
 
-    funcoes.trocar_localidade("900", "22", driver)
-    funcoes.pesq_exp(driver)
+        funcoes.filtro_data(data_inicio, data_fim, driver)
+        funcoes.trocar_localidade("700", "0", driver)
+        funcoes.pesq_exp(driver)
 
-    funcoes.filtro_data(data[2], data[3], driver)
-    funcoes.trocar_localidade("700", "0", driver)
-    funcoes.pesq_exp(driver)
+        funcoes.trocar_localidade("900", "22", driver)
+        funcoes.pesq_exp(driver)
 
-    funcoes.trocar_localidade("900", "22", driver)
-    funcoes.pesq_exp(driver)
+    # funcoes.filtro_data(data[2], data[3], driver)
+    # funcoes.trocar_localidade("700", "0", driver)
+    # funcoes.pesq_exp(driver)
+
+    # funcoes.trocar_localidade("900", "22", driver)
+    # funcoes.pesq_exp(driver)
     time.sleep(10)
 
 
