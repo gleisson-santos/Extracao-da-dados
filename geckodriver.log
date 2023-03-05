@@ -7577,3 +7577,19 @@ console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefin
 1678043205866	Marionette	INFO	Stopped listening on port 62511678043207214	Marionette	INFO	Stopped listening on port 62526
 Dynamically enable window occlusion 1
 e server: NetworkError when attempting to fetch resource.
+1678044436530	geckodriver	INFO	Listening on 127.0.0.1:54005
+1678044439631	mozrunner::runner	INFO	Running command: "C:\\P1678044440132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54010" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\console.warn: services.settings: Ignoring preference overridconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by1678044440436	Marionette	INFO	Marionette enabled
+Dynamicall1678044440511	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusioRead port: 54026
+WebDriver BiDi listening on ws://127.0.0.1:54006
+1678044440WebDriver BiDi listening on ws://127.0.0.1:54010
+1678044440719	RemoteAgent	WAconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\TeDevTools listening on ws://127.0.0.1:54006/devtools/browser/DevTools listening on ws://127.0.0.1:5console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.jsm", 116))
+1678044583993	Marionette	INFO	Stopped listening on port 54026
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+le server: NetworkError when attempting to fetch resource.
