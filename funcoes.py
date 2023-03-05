@@ -105,7 +105,6 @@ def pesq_exp(driver):
 #     return datas
 
 def gerar_datas(data_inicio_str, data_fim_str):
-
     formato_data = '%d/%m/%Y'
     data_inicio = datetime.strptime(data_inicio_str, formato_data)
     data_fim = datetime.strptime(data_fim_str, formato_data)
@@ -125,6 +124,7 @@ def definitiva(filtro, datas):
     # Declaração de Variaveis
     user = "t034183"
     passw = "CNB@2022"
+
 
     url = 'http://sciweb.embasanet.ba.gov.br/sci-web/'
     driver = Firefox()
