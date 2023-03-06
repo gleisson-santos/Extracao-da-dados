@@ -23,10 +23,13 @@ def iniciar_processo():
         threading.Thread(target=funcoes.definitiva, args=[filtro[0], data]),
         threading.Thread(target=funcoes.definitiva, args=[filtro[1], data])
     ]
+    
+    i = 0
 
-    x[0].start()
-    time.sleep(0.6)
-    x[1].start()
+    for t in x:
+        t.start()
+        time.sleep(1)
+    
     
     # Exibindo mensagem de aguardar
     status_label.config(text='Os dedos serão extraídos, aguarde!')

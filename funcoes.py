@@ -23,43 +23,43 @@ def abrir_filtro(filtro, driver):
     driver.find_element(by=By.ID, value=filtro).click()
 
 def filtro_data(data1, data2, driver):
-    time.sleep(0.6)
+    time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").clear()
-    time.sleep(0.6)
+    time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").click()
-    time.sleep(0.6)
+    time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").send_keys(data1)
-    time.sleep(0.6)
+    time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").clear()
-    time.sleep(0.6)
+    time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").click()
-    time.sleep(0.6)
+    time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").send_keys(data2)
-    time.sleep(0.6)
+    time.sleep(1)
 
 def trocar_localidade(localidade, bairro, driver):
     esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
-    time.sleep(0.6)
+    time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").clear()
-    time.sleep(0.6)
+    time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").click()
-    time.sleep(0.6)
+    time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").send_keys(localidade)
 
     esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
-    time.sleep(0.6)
-    driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").clear()
     time.sleep(1)
+    driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").clear()
+    time.sleep(2)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").click()
-    time.sleep(0.6)
+    time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").send_keys(bairro)
 
 def pesq_exp(driver):
     esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
     driver.find_element(by=By.ID, value="form-filtroAcss-toolbox-btn-search").click()
-    time.sleep(0.5)
+    time.sleep(2)
     driver.find_element(by=By.ID, value="form-filtroAcss-toolbox-btn-search").click()
-    time.sleep(0.5)
+    time.sleep(2)
 
     try:
         driver.find_element(by=By.ID, value="form-grid-grid-exportBtn-exportarxls").click()
@@ -158,13 +158,6 @@ def definitiva(filtro, datas):
 
         funcoes.trocar_localidade("900", "22", driver)
         funcoes.pesq_exp(driver)
-
-    # funcoes.filtro_data(data[2], data[3], driver)
-    # funcoes.trocar_localidade("700", "0", driver)
-    # funcoes.pesq_exp(driver)
-
-    # funcoes.trocar_localidade("900", "22", driver)
-    # funcoes.pesq_exp(driver)
     time.sleep(10)
 
 
