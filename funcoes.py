@@ -22,20 +22,52 @@ def abrir_filtro(filtro, driver):
     esperar_clicavel(filtro, driver)
     driver.find_element(by=By.ID, value=filtro).click()
 
+# def filtro_data(data1, data2, driver):
+#     time.sleep(1)
+#     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").clear()
+#     time.sleep(1)
+#     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").click()
+#     time.sleep(1)
+#     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").send_keys(data1)
+#     time.sleep(1)
+#     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").clear()
+#     time.sleep(1)
+#     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").click()
+#     time.sleep(1)
+#     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").send_keys(data2)
+#     time.sleep(1)
+
 def filtro_data(data1, data2, driver):
-    time.sleep(1)
-    driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").clear()
-    time.sleep(1)
-    driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").click()
-    time.sleep(1)
-    driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").send_keys(data1)
-    time.sleep(1)
-    driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").clear()
-    time.sleep(1)
-    driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").click()
-    time.sleep(1)
-    driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").send_keys(data2)
-    time.sleep(1)
+    wait = WebDriverWait(driver, 20)
+
+    # Espera até que o elemento flutuante desapareça ou se mova
+    wait.until_not(EC.presence_of_element_located((By.ID, "j_idt24_modal")))
+
+    # Espera até que o elemento esteja visível e clicável antes de clicá-lo
+    element = wait.until(EC.element_to_be_clickable((By.ID, "form-filtroAcss-dataId-dataTipo-beginDate")))
+    element.click()
+
+    # Insere a data após esperar até que o elemento esteja visível e clicável
+    element = wait.until(EC.element_to_be_clickable((By.ID, "form-filtroAcss-dataId-dataTipo-beginDate")))
+    element.send_keys(data1)
+
+    # Espera até que o elemento flutuante desapareça ou se mova
+    wait.until_not(EC.presence_of_element_located((By.ID, "j_idt24_modal")))
+
+    # Repete o processo para a data final
+    element = wait.until(EC.element_to_be_clickable((By.ID, "form-filtroAcss-dataId-dataTipo-endDate")))
+    element.click()
+
+    element = wait.until(EC.element_to_be_clickable((By.ID, "form-filtroAcss-dataId-dataTipo-endDate")))
+    element.send_keys(data2)
+
+    # Espera até que o elemento flutuante desapareça ou se mova
+    wait.until_not(EC.presence_of_element_located((By.ID, "j_idt24_modal")))
+
+    # Clica no botão de busca após esperar até que o elemento esteja visível e clicável
+    element = wait.until(EC.element_to_be_clickable((By.ID, "form-filtroAcss-toolbox-btn-search")))
+    element.click()
+
 
 def trocar_localidade(localidade, bairro, driver):
     esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
@@ -156,7 +188,7 @@ def definitiva(filtro, datas):
         funcoes.trocar_localidade("700", "0", driver)
         funcoes.pesq_exp(driver)
 
-        funcoes.trocar_localidade("900", "22", driver)
+        funcoes.trocar_localidade("900", "0", driver)
         funcoes.pesq_exp(driver)
     time.sleep(10)
 
