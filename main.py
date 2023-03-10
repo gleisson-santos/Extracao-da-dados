@@ -16,6 +16,7 @@ filtro = [
 def iniciar_processo():
     # Obtendo os valores das datas dos campos de entrada
     data_inicio_str = data_inicio.get()
+    time.sleep(1)
     data_fim_str = data_fim.get()
     
     # Obtendo lista de datas
