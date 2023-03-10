@@ -40,7 +40,7 @@ def iniciar_processo():
 
 # Criando janela
 janela = tk.Tk()
-janela.title("Extração de Dados")
+janela.title("Extração de Dados!")
 
 # Definindo dimensões da janela
 largura = 400
