@@ -10,7 +10,6 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import UnexpectedAlertPresentException
 
 
-
 from selenium.webdriver import Firefox
 import time
 import funcoes
@@ -28,8 +27,6 @@ def abrir_filtro(filtro, driver):
     esperar_clicavel(filtro, driver)
     driver.find_element(by=By.ID, value=filtro).click()
 
-
-
 def filtro_data(data1, data2, driver):
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").clear()
@@ -45,7 +42,6 @@ def filtro_data(data1, data2, driver):
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").send_keys(data2)
     time.sleep(1)
 
-
 def trocar_localidade(localidade, bairro, driver):
     esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
     time.sleep(1)
@@ -54,8 +50,11 @@ def trocar_localidade(localidade, bairro, driver):
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").click()
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").send_keys(localidade)
+    WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
 
     esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
+    WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
+
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").clear()
     time.sleep(2)
@@ -114,8 +113,6 @@ def gerar_datas(data_inicio_str, data_fim_str):
 
     return datas
 
-
-
 def definitiva(filtro, datas):
     # Declaração de Variaveis
     user = "t034183"
@@ -123,7 +120,10 @@ def definitiva(filtro, datas):
 
 
     url = 'http://sciweb.embasanet.ba.gov.br/sci-web/'
-    driver = Firefox()
+
+    profile = webdriver.FirefoxProfile()
+    profile.set_preference("browser.download.manager.showWhenStarting", False)
+    driver = webdriver.Firefox(firefox_profile=profile)
     driver.get(url)
 
     time.sleep(1)
@@ -148,11 +148,18 @@ def definitiva(filtro, datas):
         data_inicio = datas[i].strftime('%d/%m/%Y')
         data_fim = datas[i + 1].strftime('%d/%m/%Y')
 
+        WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
         funcoes.filtro_data(data_inicio, data_fim, driver)
+        WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
+
         funcoes.trocar_localidade("700", "0", driver)
+        WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
+
         funcoes.pesq_exp(driver)
         time.sleep(2)
         funcoes.trocar_localidade("900", "0", driver)
+        WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
+
         funcoes.pesq_exp(driver)
         time.sleep(2)
     time.sleep(10)
