@@ -15,7 +15,9 @@ import time
 import funcoes
 from datetime import datetime, timedelta
 
-
+def esperar_sumir(driver):
+    wait = WebDriverWait(driver, 10)
+    wait.until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
 
 def esperar_clicavel(variavel, driver):
     wait = WebDriverWait(driver, 10)  # defino uma variavel com a propriedade de esperar um determinado tempo
@@ -44,16 +46,16 @@ def filtro_data(data1, data2, driver):
 
 def trocar_localidade(localidade, bairro, driver):
     esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
+    esperar_sumir(driver)
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").clear()
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").click()
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").send_keys(localidade)
-    WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
 
     esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
-    WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
+    esperar_sumir(driver)
 
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").clear()
@@ -61,6 +63,7 @@ def trocar_localidade(localidade, bairro, driver):
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").click()
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").send_keys(bairro)
+    esperar_sumir(driver)
 
 num_downloads = 0
 def pesq_exp(driver):
