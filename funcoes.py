@@ -50,7 +50,9 @@ def trocar_localidade(localidade, bairro, driver):
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").clear()
     time.sleep(1)
+    esperar_sumir(driver)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").click()
+    esperar_sumir(driver)
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").send_keys(localidade)
 
@@ -147,9 +149,15 @@ def definitiva(filtro, datas):
 
     funcoes.abrir_filtro(filtro, driver)
 
-    for i in range(0, len(datas) - 1, 2):
+    # for i in range(0, len(datas) - 1, 2):
+    #     data_inicio = datas[i].strftime('%d/%m/%Y')
+    #     data_fim = datas[i + 1].strftime('%d/%m/%Y')
+    for i in range(0, len(datas), 3):
         data_inicio = datas[i].strftime('%d/%m/%Y')
-        data_fim = datas[i + 1].strftime('%d/%m/%Y')
+        if i + 2 < len(datas):
+            data_fim = datas[i + 2].strftime('%d/%m/%Y')
+        else:
+            data_fim = datas[-1].strftime('%d/%m/%Y')
 
         WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
         funcoes.filtro_data(data_inicio, data_fim, driver)
