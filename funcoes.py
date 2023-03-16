@@ -50,9 +50,7 @@ def trocar_localidade(localidade, bairro, driver):
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").clear()
     time.sleep(1)
-    esperar_sumir(driver)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").click()
-    esperar_sumir(driver)
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").send_keys(localidade)
 
