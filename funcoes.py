@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import UnexpectedAlertPresentException
 
@@ -17,14 +18,15 @@ from datetime import datetime, timedelta
 
 def esperar_sumir(driver):
     wait = WebDriverWait(driver, 10)
-    wait.until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
+    element = wait.until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
 
 def esperar_clicavel(variavel, driver):
     wait = WebDriverWait(driver, 10)  # defino uma variavel com a propriedade de esperar um determinado tempo
     wait.until(EC.element_to_be_clickable((By.ID, variavel)))  # aqui aplico a condição da qual espero
 
 def abrir_filtro(filtro, driver):
-    esperar_clicavel("form-filtroAcss-btnOpenDlgPrefs", driver)
+    esperar_sumir(driver)
+    esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
     driver.find_element(by=By.ID, value="form-filtroAcss-btnOpenDlgPrefs").click()
     esperar_clicavel(filtro, driver)
     driver.find_element(by=By.ID, value=filtro).click()
@@ -43,34 +45,31 @@ def filtro_data(data1, data2, driver):
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").send_keys(data2)
     time.sleep(1)
+    esperar_sumir(driver)
 
 def trocar_localidade(localidade, bairro, driver):
-    esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
-    esperar_sumir(driver)
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").clear()
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").click()
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").send_keys(localidade)
-
-    esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
-    esperar_sumir(driver)
-
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").clear()
-    time.sleep(2)
+    time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").click()
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").send_keys(bairro)
+    time.sleep(1)
     esperar_sumir(driver)
+
 
 num_downloads = 0
 def pesq_exp(driver):
     global num_downloads
 
-    esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
-    driver.find_element(by=By.ID, value="form-filtroAcss-toolbox-btn-search").click()
+    esperar_sumir(driver)
+    WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, "form-filtroAcss-toolbox-btn-search"))).click()
     time.sleep(2)
     driver.find_element(by=By.ID, value="form-filtroAcss-toolbox-btn-search").click()
     time.sleep(2)
@@ -124,9 +123,13 @@ def definitiva(filtro, datas):
 
     url = 'http://sciweb.embasanet.ba.gov.br/sci-web/'
 
+    options = Options()
+    options.headless = True
+
     profile = webdriver.FirefoxProfile()
     profile.set_preference("browser.download.manager.showWhenStarting", False)
-    driver = webdriver.Firefox(firefox_profile=profile)
+
+    driver = webdriver.Firefox(firefox_profile=profile, options=options)
     driver.get(url)
 
     time.sleep(1)
@@ -146,6 +149,7 @@ def definitiva(filtro, datas):
     driver.switch_to.frame("frame-content")
 
     funcoes.abrir_filtro(filtro, driver)
+    esperar_sumir(driver)
 
     # for i in range(0, len(datas) - 1, 2):
     #     data_inicio = datas[i].strftime('%d/%m/%Y')
@@ -157,20 +161,17 @@ def definitiva(filtro, datas):
         else:
             data_fim = datas[-1].strftime('%d/%m/%Y')
 
-        WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
         funcoes.filtro_data(data_inicio, data_fim, driver)
-        WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
-
+        esperar_sumir(driver)
         funcoes.trocar_localidade("700", "0", driver)
-        WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
-
+        esperar_sumir(driver)
         funcoes.pesq_exp(driver)
-        time.sleep(2)
+
+        esperar_sumir(driver)
         funcoes.trocar_localidade("900", "0", driver)
-        WebDriverWait(driver, 10).until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
-
+        esperar_sumir(driver)
         funcoes.pesq_exp(driver)
-        time.sleep(2)
+        time.sleep(1)
     time.sleep(10)
 
 

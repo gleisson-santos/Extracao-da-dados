@@ -16,7 +16,7 @@ filtro = [
 def iniciar_processo():
     # Obtendo os valores das datas dos campos de entrada
     data_inicio_str = data_inicio.get()
-    time.sleep(1)
+    time.sleep(0.5)
     data_fim_str = data_fim.get()
     
     # Obtendo lista de datas
@@ -32,7 +32,7 @@ def iniciar_processo():
 
     for t in x:
         t.start()
-        time.sleep(1)
+
     
     
     # Exibindo mensagem de aguardar
