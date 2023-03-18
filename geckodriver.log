@@ -40463,16 +40463,14 @@ console.error: ({})
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
-ed
-Dynamically enable window occlusion 0
-1679076397424	Marionette	INFO	Listening on port 59812
-Read port: 59813
-WebDriver BiDi listening on ws://127.0.0.1:59798
-1679076397575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileXl4US1\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:59798/devtools/browser/61cf6e5a-d419-4035-b076-c2f11e78d615
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to remove some intermediate certificates
+console.error: RemoteSecuritySettings.jsm: 
+  certStorage.addCerts failed: 2147500037
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+c2f11e78d615
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
 console.warn: services.settings: Ignoring preference override of remote settings server
@@ -40518,15 +40516,14 @@ JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
-6805	Marionette	INFO	Listening on port 60144
-WebDriver BiDi listening on ws://127.0.0.1:60128
-Read port: 60144
-1679076837068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileUzOBuJ\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:60128/devtools/browser/7a9ca4d2-9f4e-49d4-abc7-64a5ed0a9c7a
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to remove some intermediate certificates
+console.error: RemoteSecuritySettings.jsm: 
+  certStorage.addCerts failed: 2147500037
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ack to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -40562,14 +40559,10 @@ JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
-ed
-Dynamically enable window occlusion 0
-1679078191399	Marionette	INFO	Listening on port 60743
-WebDriver BiDi listening on ws://127.0.0.1:60729
-Read port: 60743
-1679078191634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileARn8t7\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+\AppData\\Local\\Temp\\rust_mozprofileARn8t7\\search.json.mozlz4", (void 0)))
 console.error: ({})
 DevTools listening on ws://127.0.0.1:60728/devtools/browser/796b0799-e684-42b8-8909-4c833d8489b0
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
@@ -40594,13 +40587,9 @@ JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
-\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileNZp5du"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679079514349	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679079514353	Marionette	INFO	Listening on port 61512
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
+ening on port 61512
 WebDriver BiDi listening on ws://127.0.0.1:61496
 Read port: 61512
 1679079514673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
@@ -40697,10 +40686,9 @@ console.error: ({})
 console.error: ({})
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
-runner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "64473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileteODys"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1679142929555	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1679142929561	Marionette	INFO	Listening on port 64490
@@ -40752,12 +40740,9 @@ JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
-3062	Marionette	INFO	Listening on port 64824
-Read port: 64823
-WebDriver BiDi listening on ws://127.0.0.1:64809
-1679143523212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileh4S7Vl\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+\AppData\\Local\\Temp\\rust_mozprofileh4S7Vl\\search.json.mozlz4", (void 0)))
 console.error: ({})
 DevTools listening on ws://127.0.0.1:64810/devtools/browser/9439873e-69ea-4a3b-9822-92e2deaf5aca
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
@@ -40952,12 +40937,8 @@ console.error: ({})
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
-ed
-Dynamically enable window occlusion 0
-1679148095630	Marionette	INFO	Listening on port 50530
-Read port: 50530
-WebDriver BiDi listening on ws://127.0.0.1:50516
-1679148095872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+e errors will be ignored for this session
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilePutS7A\\search.json.mozlz4", (void 0)))
 console.error: ({})
@@ -40997,10 +40978,9 @@ console.error: ({})
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
-zilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51130" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile2eVUqC"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
+TOOLS=1 in the environment
 1679149176449	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1679149176455	Marionette	INFO	Listening on port 51144
@@ -41079,10 +41059,9 @@ console.error: ({})
 console.error: ({})
 console.error: ({})
 console.error: ({})
-1679151244190	geckodriver	INFO	Listening on 127.0.0.1:52005
-1679151247292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52006" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilemsGFA5"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
+tings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1679151247913	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -41105,9 +41084,8 @@ console.error: ({})
 console.error: ({})
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemsGFA5\thumbnails) because it does not exist
--port" "52267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileLjBY7n"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemsGFA5\thumbnails) because it does not exist
+tings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1679152035461	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -41129,10 +41107,9 @@ console.error: ({})
 console.error: ({})
 console.error: ({})
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:52572
-1679152632738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileIIXOMg"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileY6HcTL\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileY6HcTL\thumbnails) because it does not exist
+gs server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1679152633370	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -41221,11 +41198,8 @@ console.error: ({})
 console.error: ({})
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
-nteraction.sys.mjs:425:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
-console.error: ({})
-1679155869135	geckodriver	INFO	Listening on 127.0.0.1:53730
-1679155872191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileU4bAMe"
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+runner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileU4bAMe"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -41246,10 +41220,9 @@ console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1
 console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:53868
-1679156048427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53870" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile7ZEhuC"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYcf3wz\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYcf3wz\thumbnails) because it does not exist
+gs server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1679156048860	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -41270,14 +41243,9 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.error: ({})
 console.error: ({})
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-race:
-TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
-TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
-console.error: ({})
-1679156158472	geckodriver	INFO	Listening on 127.0.0.1:53996
-1679156161510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53998" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilegZqYyP"
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileysJfk3\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileysJfk3\thumbnails) because it does not exist
+runner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53998" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilegZqYyP"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -41379,10 +41347,9 @@ console.error: ({})
 console.error: ({})
 console.error: ({})
 console.error: ({})
-1679157396392	geckodriver	INFO	Listening on 127.0.0.1:54687
-1679157399478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54688" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileukEzPo"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+tings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1679157400190	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -41440,3 +41407,296 @@ or: ({})
 console.error: ({})
 console.error: ({})
 console.error: ({})
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileukEzPo\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileukEzPo\thumbnails) because it does not exist
+tings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679158774914	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679158774921	Marionette	INFO	Listening on port 55603
+Read port: 55603
+WebDriver BiDi listening on ws://127.0.0.1:55589
+1679158775074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilezl87W4\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55588/devtools/browser/5cda60da-81f7-4a62-9800-d46144734b50
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+or: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1679162548713	geckodriver	INFO	Listening on 127.0.0.1:57438
+1679162551826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilehggY7u"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679162552640	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679162552647	Marionette	INFO	Listening on port 57454
+Read port: 57453
+WebDriver BiDi listening on ws://127.0.0.1:57439
+1679162552795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilehggY7u\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57439/devtools/browser/c991fe2c-33de-4d2c-a504-85b2b2cf47cf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.error: ({})
+1679162717705	geckodriver	INFO	Listening on 127.0.0.1:57597
+1679162720810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57600" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilect0WxG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679162721518	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679162721527	Marionette	INFO	Listening on port 57614
+Read port: 57614
+WebDriver BiDi listening on ws://127.0.0.1:57600
+1679162721742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileGlDlvJ\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57600/devtools/browser/a82f9b89-6cea-401e-9995-f6c384237e80
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57735
+1679162839120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57738" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile6wuTHf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679162839729	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679162839733	Marionette	INFO	Listening on port 57752
+WebDriver BiDi listening on ws://127.0.0.1:57737
+Read port: 57752
+1679162839962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileKaofU4\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57737/devtools/browser/4ec56e2a-9ca5-4361-8f21-48cd7626c61a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.error: ({})
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57859
+1679162936032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile5zCPkZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679162936725	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679162936731	Marionette	INFO	Listening on port 57876
+Read port: 57875
+WebDriver BiDi listening on ws://127.0.0.1:57862
+1679162936903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileN7HKtB\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57862/devtools/browser/b152963d-b809-4e6a-942e-7801b122f327
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+1679163442523	geckodriver	INFO	Listening on 127.0.0.1:58081
+1679163445603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileQCeney"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679163446422	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679163446427	Marionette	INFO	Listening on port 58097
+WebDriver BiDi listening on ws://127.0.0.1:58083
+Read port: 58097
+1679163446726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile87oAbI\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58083/devtools/browser/3068adf0-3281-4844-885d-cbd5af87c39a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58262
+1679163805318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58264" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile0zZoSw"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679163805939	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679163805944	Marionette	INFO	Listening on port 58279
+Read port: 58278
+WebDriver BiDi listening on ws://127.0.0.1:58264
+1679163806082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile0zZoSw\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58264/devtools/browser/b5b2ff4b-3e85-435a-b1f8-6c75e8f22201
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58407
+1679163957698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilevzuDZU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679163958348	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679163958356	Marionette	INFO	Listening on port 58427
+Read port: 58427
+WebDriver BiDi listening on ws://127.0.0.1:58410
+1679163958518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilevzuDZU\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58410/devtools/browser/ee3b759b-c882-48e7-9bf7-0851d4e4e375
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58508
+1679164037636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileZyob7h"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679164038060	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679164038065	Marionette	INFO	Listening on port 58525
+WebDriver BiDi listening on ws://127.0.0.1:58510
+Read port: 58525
+1679164038378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilearfosv\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58511/devtools/browser/b69396cc-b0d1-437f-939c-76492ec927fb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+1679164131845	geckodriver	INFO	Listening on 127.0.0.1:58646
+1679164134913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilevwqYIM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679164135518	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679164135523	Marionette	INFO	Listening on port 58662
+WebDriver BiDi listening on ws://127.0.0.1:58647
+Read port: 58662
+1679164135777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileFDmKZn\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58648/devtools/browser/4638c003-7066-4633-8b43-0bb84d288aa1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58809
+1679164360069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58811" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileBSzoH1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679164360793	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679164360798	Marionette	INFO	Listening on port 58826
+Read port: 58825
+WebDriver BiDi listening on ws://127.0.0.1:58812
+1679164360968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileBSzoH1\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58811/devtools/browser/54b55557-e07f-4c84-a115-4a3b09c9e9be
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE

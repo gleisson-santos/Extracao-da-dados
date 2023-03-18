@@ -72,6 +72,7 @@ def trocar_localidade(localidade, bairro, driver):
 
 
 num_downloads = 0
+dedos_extraidos = []
 def pesq_exp(driver):
     global num_downloads
 
@@ -84,6 +85,7 @@ def pesq_exp(driver):
         driver.find_element(by=By.ID, value="form-grid-grid-exportBtn-exportarxls").click()
         time.sleep(2)
         num_downloads += 1
+        dedos_extraidos.append(num_downloads)
         print(f"Planilha nº {num_downloads} extraida com sucesso!")
     except: 
         print("Erro inesperado!")
