@@ -40938,9 +40938,8 @@ JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Cou
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
-e errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilePutS7A\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+"Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilePutS7A\\search.json.mozlz4", (void 0)))
 console.error: ({})
 DevTools listening on ws://127.0.0.1:50516/devtools/browser/39dcc9bd-1304-4b6c-853e-df002828003b
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
