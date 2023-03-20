@@ -40470,705 +40470,202 @@ console.error: RemoteSecuritySettings.jsm:
   certStorage.addCerts failed: 2147500037
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
-c2f11e78d615
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-arionette/sync.sys.mjs:204:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
-console.error: ({})
-console.error: ({})
-1679076477581	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
-TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilekqmpfx\thumbnails) because it does not exist
+console.error: RemoteSecuritySettings.jsm: 
+  certStorage.addCerts failed: 2147500037
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ers\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
+t exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
+orker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679247831007	Marionette	INFO	Stopped listening on port 60744
+Dynamically enable window occlusion 1
+p5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
+ta\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679247781458	Marionette	INFO	Stopped listening on port 64490
+Dynamically enable window occlusion 1
+rofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
+ resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
+er.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
 console.error: RemoteSecuritySettings.jsm: 
   Failed to remove some intermediate certificates
 console.error: RemoteSecuritySettings.jsm: 
   certStorage.addCerts failed: 2147500037
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileEdU1C0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-ack to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFbGfUO\thumbnails) because it does not exist
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-\AppData\\Local\\Temp\\rust_mozprofileARn8t7\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:60728/devtools/browser/796b0799-e684-42b8-8909-4c833d8489b0
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilezJ6MML\thumbnails) because it does not exist
-ening on port 61512
-WebDriver BiDi listening on ws://127.0.0.1:61496
-Read port: 61512
-1679079514673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileNZp5du\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:61497/devtools/browser/2ce8e31f-1293-4cab-bd7d-1bea530d4e21
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileNZp5du\thumbnails) because it does not exist
-services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679142929555	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679142929561	Marionette	INFO	Listening on port 64490
-Read port: 64490
-WebDriver BiDi listening on ws://127.0.0.1:64473
-1679142929752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilewHtL4Y\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:64473/devtools/browser/b49c3ddc-8733-4ad9-988d-9e0cfd12da1e
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
- timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
-TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilewHtL4Y\thumbnails) because it does not exist
-\AppData\\Local\\Temp\\rust_mozprofileh4S7Vl\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:64810/devtools/browser/9439873e-69ea-4a3b-9822-92e2deaf5aca
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-nsole.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileh4S7Vl\thumbnails) because it does not exist
-"Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilePutS7A\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:50516/devtools/browser/39dcc9bd-1304-4b6c-853e-df002828003b
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
-JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilePutS7A\thumbnails) because it does not exist
-TOOLS=1 in the environment
-1679149176449	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679149176455	Marionette	INFO	Listening on port 51144
-Read port: 51144
-WebDriver BiDi listening on ws://127.0.0.1:51130
-1679149176644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileeAKvVm\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:51130/devtools/browser/8bca98ab-c62b-45a2-8be1-fd9a2b3f9493
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-ole.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
-tings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679151247913	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679151247918	Marionette	INFO	Listening on port 52021
-Read port: 52021
-WebDriver BiDi listening on ws://127.0.0.1:52007
-1679151248060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilemsGFA5\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:52006/devtools/browser/d65fd2dd-09d1-4e0f-89cf-1694fa5231f4
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileeAKvVm\thumbnails) because it does not exist
+[Child 16844, IPC I/O Child] WARNING: pipe error: 1450: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+[Parent 24324, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+Exiting due to channel error.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679247423596	Marionette	INFO	Stopped listening on port 51144
+Dynamically enable window occlusion 1
+l\Temp\rust_mozprofilemsGFA5\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemsGFA5\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemsGFA5\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemsGFA5\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemsGFA5\thumbnails) because it does not exist
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemsGFA5\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemsGFA5\thumbnails) because it does not exist
-tings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679152035461	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679152035466	Marionette	INFO	Listening on port 52282
-Read port: 52283
-WebDriver BiDi listening on ws://127.0.0.1:52267
-1679152035705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileY6HcTL\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:52267/devtools/browser/a600d28a-10b7-4d05-a46a-1783a31c50ab
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
+ld not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileY6HcTL\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileY6HcTL\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileY6HcTL\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileY6HcTL\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileY6HcTL\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileY6HcTL\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileY6HcTL\thumbnails) because it does not exist
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to remove some intermediate certificates
+console.error: RemoteSecuritySettings.jsm: 
+  certStorage.addCerts failed: 2147500037
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileY6HcTL\thumbnails) because it does not exist
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileY6HcTL\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileY6HcTL\thumbnails) because it does not exist
-gs server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679152633370	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679152633374	Marionette	INFO	Listening on port 52580
-Read port: 52580
-WebDriver BiDi listening on ws://127.0.0.1:52573
-1679152633477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileIIXOMg\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:52573/devtools/browser/9057f5d9-56ac-43dd-be7e-2f2deb379eaf
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-1679152696299	geckodriver	INFO	Listening on 127.0.0.1:52645
-1679152699351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52646" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilerS2TFd"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679152699987	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679152699991	Marionette	INFO	Listening on port 52654
-Read port: 52654
-WebDriver BiDi listening on ws://127.0.0.1:52646
-1679152700093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilerS2TFd\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:52646/devtools/browser/a296ccdb-df9c-46c7-82dd-21435c549b2b
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-1679152760785	geckodriver	INFO	Listening on 127.0.0.1:52712
-1679152763806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52714" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilezFFUjJ"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679152764559	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679152764563	Marionette	INFO	Listening on port 52741
-Read port: 52741
-WebDriver BiDi listening on ws://127.0.0.1:52714
-1679152764698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilezFFUjJ\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:52714/devtools/browser/71f223f2-2066-4d39-a32c-cb8a22d684c5
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
+es.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
 1679154708659	geckodriver	INFO	Listening on 127.0.0.1:53386
@@ -41198,504 +40695,201 @@ console.error: ({})
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
-runner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileU4bAMe"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679155872808	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679155872813	Marionette	INFO	Listening on port 53750
-Read port: 53750
-WebDriver BiDi listening on ws://127.0.0.1:53732
-1679155872938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileU4bAMe\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:53732/devtools/browser/ee95c15d-b1d5-4d41-a409-ed54fe60eb97
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGaxwLI\thumbnails) because it does not exist
+ error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYcf3wz\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYcf3wz\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYcf3wz\thumbnails) because it does not exist
-gs server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679156048860	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679156048864	Marionette	INFO	Listening on port 53884
-Read port: 53884
-WebDriver BiDi listening on ws://127.0.0.1:53870
-1679156048997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile7ZEhuC\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:53870/devtools/browser/06375b7f-af09-49ba-a371-af6e5695e753
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYcf3wz\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYcf3wz\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYcf3wz\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYcf3wz\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYcf3wz\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYcf3wz\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYcf3wz\thumbnails) because it does not exist
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYcf3wz\thumbnails) because it does not exist
+_mozprofileysJfk3\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileysJfk3\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileysJfk3\thumbnails) because it does not exist
-runner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53998" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilegZqYyP"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679156162106	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679156162111	Marionette	INFO	Listening on port 54012
-WebDriver BiDi listening on ws://127.0.0.1:53998
-Read port: 54012
-1679156162403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilegZqYyP\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:53998/devtools/browser/3fd89249-a569-46a5-bbe0-4c868f2aaff3
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-/remote/content/marionette/interaction.sys.mjs:173:31
-console.error: ({})
-1679156317869	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
-TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileysJfk3\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileysJfk3\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileysJfk3\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileysJfk3\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileysJfk3\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileysJfk3\thumbnails) because it does not exist
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileysJfk3\thumbnails) because it does not exist
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679247822152	Marionette	INFO	Stopped listening on port 53883
+Dynamically enable window occlusion 1
+m, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
-tings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679157400190	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679157400197	Marionette	INFO	Listening on port 54702
-WebDriver BiDi liWebDriver BiDi listening on ws://127.0.0.1:54688
-1679157400535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileBCUGIb\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:54686/devtools/browser/8bed40bb-6e4c-4ca3-a996-50ddad9cc5c1
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-or: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileUmWyvV\thumbnails) because it does not exist
+cause it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileukEzPo\thumbnails) because it does not exist
 JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileukEzPo\thumbnails) because it does not exist
-tings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679158774914	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679158774921	Marionette	INFO	Listening on port 55603
-Read port: 55603
-WebDriver BiDi listening on ws://127.0.0.1:55589
-1679158775074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilezl87W4\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:55588/devtools/browser/5cda60da-81f7-4a62-9800-d46144734b50
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-or: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-1679162548713	geckodriver	INFO	Listening on 127.0.0.1:57438
-1679162551826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilehggY7u"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679162552640	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679162552647	Marionette	INFO	Listening on port 57454
-Read port: 57453
-WebDriver BiDi listening on ws://127.0.0.1:57439
-1679162552795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilehggY7u\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:57439/devtools/browser/c991fe2c-33de-4d2c-a504-85b2b2cf47cf
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-1679162717705	geckodriver	INFO	Listening on 127.0.0.1:57597
-1679162720810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57600" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilect0WxG"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679162721518	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679162721527	Marionette	INFO	Listening on port 57614
-Read port: 57614
-WebDriver BiDi listening on ws://127.0.0.1:57600
-1679162721742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileGlDlvJ\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:57600/devtools/browser/a82f9b89-6cea-401e-9995-f6c384237e80
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileukEzPo\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileukEzPo\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileukEzPo\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileukEzPo\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileukEzPo\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileukEzPo\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileukEzPo\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileukEzPo\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileukEzPo\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileukEzPo\thumbnails) because it does not exist
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:57735
-1679162839120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57738" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile6wuTHf"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679162839729	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679162839733	Marionette	INFO	Listening on port 57752
-WebDriver BiDi listening on ws://127.0.0.1:57737
-Read port: 57752
-1679162839962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileKaofU4\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:57737/devtools/browser/4ec56e2a-9ca5-4361-8f21-48cd7626c61a
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
+ld not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYXVGar\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYXVGar\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYXVGar\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYXVGar\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYXVGar\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYXVGar\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYXVGar\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYXVGar\thumbnails) because it does not exist
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to remove some intermediate certificates
+console.error: RemoteSecuritySettings.jsm: 
+  certStorage.addCerts failed: 2147500037
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileYXVGar\thumbnails) because it does not exist
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:57859
-1679162936032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile5zCPkZ"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679162936725	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679162936731	Marionette	INFO	Listening on port 57876
-Read port: 57875
-WebDriver BiDi listening on ws://127.0.0.1:57862
-1679162936903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileN7HKtB\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:57862/devtools/browser/b152963d-b809-4e6a-942e-7801b122f327
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-1679163442523	geckodriver	INFO	Listening on 127.0.0.1:58081
-1679163445603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileQCeney"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679163446422	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679163446427	Marionette	INFO	Listening on port 58097
-WebDriver BiDi listening on ws://127.0.0.1:58083
-Read port: 58097
-1679163446726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile87oAbI\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:58083/devtools/browser/3068adf0-3281-4844-885d-cbd5af87c39a
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:58262
-1679163805318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58264" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile0zZoSw"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679163805939	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679163805944	Marionette	INFO	Listening on port 58279
-Read port: 58278
-WebDriver BiDi listening on ws://127.0.0.1:58264
-1679163806082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile0zZoSw\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:58264/devtools/browser/b5b2ff4b-3e85-435a-b1f8-6c75e8f22201
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:58407
-1679163957698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilevzuDZU"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679163958348	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679163958356	Marionette	INFO	Listening on port 58427
-Read port: 58427
-WebDriver BiDi listening on ws://127.0.0.1:58410
-1679163958518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilevzuDZU\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:58410/devtools/browser/ee3b759b-c882-48e7-9bf7-0851d4e4e375
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:58508
-1679164037636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileZyob7h"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679164038060	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679164038065	Marionette	INFO	Listening on port 58525
-WebDriver BiDi listening on ws://127.0.0.1:58510
-Read port: 58525
-1679164038378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilearfosv\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:58511/devtools/browser/b69396cc-b0d1-437f-939c-76492ec927fb
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
-1679164131845	geckodriver	INFO	Listening on 127.0.0.1:58646
-1679164134913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilevwqYIM"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679164135518	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679164135523	Marionette	INFO	Listening on port 58662
-WebDriver BiDi listening on ws://127.0.0.1:58647
-Read port: 58662
-1679164135777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileFDmKZn\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:58648/devtools/browser/4638c003-7066-4633-8b43-0bb84d288aa1
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:58809
-1679164360069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58811" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileBSzoH1"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1679164360793	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1679164360798	Marionette	INFO	Listening on port 58826
-Read port: 58825
-WebDriver BiDi listening on ws://127.0.0.1:58812
-1679164360968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileBSzoH1\\search.json.mozlz4", (void 0)))
-console.error: ({})
-DevTools listening on ws://127.0.0.1:58811/devtools/browser/54b55557-e07f-4c84-a115-4a3b09c9e9be
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
-console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-console.error: ({})
-JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileGlDlvJ\thumbnails) because it does not exist
+f file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileKaofU4\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileKaofU4\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileKaofU4\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileKaofU4\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileKaofU4\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileKaofU4\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileKaofU4\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileKaofU4\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileKaofU4\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileKaofU4\thumbnails) because it does not exist
+vaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofile5zCPkZ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofile5zCPkZ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofile5zCPkZ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofile5zCPkZ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofile5zCPkZ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofile5zCPkZ\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofile5zCPkZ\thumbnails) because it does not exist
+C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileQCeney\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileQCeney\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileQCeney\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileQCeney\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileQCeney\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileQCeney\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileQCeney\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileQCeney\thumbnails) because it does not exist
+S~1.SAN\AppData\Local\Temp\rust_mozprofileawFk9I\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileawFk9I\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileawFk9I\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileawFk9I\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileawFk9I\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileawFk9I\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileawFk9I\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileawFk9I\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileawFk9I\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileawFk9I\thumbnails) because it does not exist
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679247823325	Marionette	INFO	Stopped listening on port 58279
+Dynamically enable window occlusion 1
+l\Temp\rust_mozprofileTjn6cs\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileTjn6cs\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileTjn6cs\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileTjn6cs\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileTjn6cs\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileTjn6cs\thumbnails) because it does not exist
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679247823762	Marionette	INFO	Stopped listening on port 58426
+Dynamically enable window occlusion 1
+ile(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileZyob7h\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileZyob7h\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileZyob7h\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileZyob7h\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileZyob7h\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileZyob7h\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileZyob7h\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileZyob7h\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileZyob7h\thumbnails) because it does not exist
+t exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFDmKZn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFDmKZn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFDmKZn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFDmKZn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFDmKZn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFDmKZn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFDmKZn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFDmKZn\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofileFDmKZn\thumbnails) because it does not exist
+ line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemcGlR0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemcGlR0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemcGlR0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemcGlR0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemcGlR0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemcGlR0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemcGlR0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemcGlR0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemcGlR0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemcGlR0\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\GLEISS~1.SAN\AppData\Local\Temp\rust_mozprofilemcGlR0\thumbnails) because it does not exist
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1679247784746	Marionette	INFO	Stopped listening on port 58826
+Dynamically enable window occlusion 1
