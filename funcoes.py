@@ -79,7 +79,9 @@ def pesq_exp(driver):
     esperar_sumir(driver)
     WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, "form-filtroAcss-toolbox-btn-search"))).click()
     time.sleep(2)
+    esperar_sumir(driver)
     driver.find_element(by=By.ID, value="form-filtroAcss-toolbox-btn-search").click()
+    esperar_sumir(driver)
     time.sleep(2)
     try:
         driver.find_element(by=By.ID, value="form-grid-grid-exportBtn-exportarxls").click()
@@ -149,7 +151,9 @@ def definitiva(filtro, datas):
     driver.find_element(by=By.ID, value="loginForm-submit").click()
 
     # Neste bloco é feito a seleção de qual tela desejo abrir, no caso é a consulta geral
+    esperar_sumir(driver)
     driver.find_element(by=By.ID, value="arvoreSearch").send_keys("gera")
+    esperar_sumir(driver)
 
     wait = WebDriverWait(driver, 10)  # defino uma variavel com a propriedade de esperar um determinado tempo
     element = wait.until(EC.element_to_be_clickable((By.ID, 'CRSS_anchor')))  # aqui aplico a condição da qual espero
