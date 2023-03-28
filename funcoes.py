@@ -45,7 +45,7 @@ def filtro_data(data1, data2, driver):
     time.sleep(1)
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").send_keys(data2)
     time.sleep(1)
-    esperar_sumir(driver)
+        
 
 def trocar_localidade(localidade, bairro, driver):
     time.sleep(1)
@@ -90,7 +90,7 @@ def pesq_exp(driver):
         dedos_extraidos.append(num_downloads)
         print(f"Planilha nº {num_downloads} extraida com sucesso!")
     except: 
-        print("Erro inesperado!")
+        print("Erro Unidade de medição!")
 
 
 # def gerar_datas():
@@ -176,12 +176,12 @@ def definitiva(filtro, datas):
 
         funcoes.filtro_data(data_inicio, data_fim, driver)
         esperar_sumir(driver)
-        funcoes.trocar_localidade("700", "0", driver)
+        funcoes.trocar_localidade("902", "0", driver)
         esperar_sumir(driver)
         funcoes.pesq_exp(driver)
 
         esperar_sumir(driver)
-        funcoes.trocar_localidade("900", "0", driver)
+        funcoes.trocar_localidade("902", "0", driver)
         esperar_sumir(driver)
         funcoes.pesq_exp(driver)
         time.sleep(1)
