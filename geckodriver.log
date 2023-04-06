@@ -41184,3 +41184,38 @@ console.error: ({})
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 ror: ({})
 console.error: ({})
+1680738520065	geckodriver	INFO	Listening on 127.0.0.1:51988
+1680738523149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\55719\\AppData\\Local\\Temp\\rust_mozprofileDzNRM6"
+*** You are running in headless mode.
+1680738524342	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680738524349	Marionette	INFO	Listening on port 52005
+Read port: 52004
+WebDriver BiDi listening on ws://127.0.0.1:51991
+1680738524595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\55719\\AppData\\Local\\Temp\\rust_mozprofileDzNRM6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51991/devtools/browser/7beb72e9-97c9-479e-8770-1eddb385bc2b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1680740061525	geckodriver	INFO	Listening on 127.0.0.1:52786
+1680740064598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\55719\\AppData\\Local\\Temp\\rust_mozprofilelcGEwp"
+*** You are running in headless mode.
+1680740065247	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680740065258	Marionette	INFO	Listening on port 52804
+Read port: 52804
+WebDriver BiDi listening on ws://127.0.0.1:52789
+1680740065500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\55719\\AppData\\Local\\Temp\\rust_mozprofilelcGEwp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52789/devtools/browser/9df13982-a0cc-4886-8400-89eeb2e3503b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
