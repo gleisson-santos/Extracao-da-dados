@@ -41184,3 +41184,186 @@ console.error: ({})
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 ror: ({})
 console.error: ({})
+1681141057377	geckodriver	INFO	Listening on 127.0.0.1:57322
+1681141060443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilezwVWeQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681141061411	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681141061417	Marionette	INFO	Listening on port 57339
+Read port: 57339
+WebDriver BiDi listening on ws://127.0.0.1:57324
+1681141061576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilevU9x86\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57325/devtools/browser/203ae026-0463-4807-a8da-5266f2fdece1
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+1681141180435	geckodriver	INFO	Listening on 127.0.0.1:57496
+1681141183493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile3XxDR9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681141184073	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681141184077	Marionette	INFO	Listening on port 57512
+Read port: 57512
+WebDriver BiDi listening on ws://Read port: 57511
+1681141184333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofiledQd1ni\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57497/devtools/browser/291249dd-d2f2-4aa5-8dfb-e0c5a2ff2df5
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57678
+1681141329664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57680" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile3UjtLJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681141330550	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681141330555	Marionette	INFO	Listening on port 57697
+Read port: 57697
+WebDriver BiDi listening on ws://127.0.0.1:57679
+1681141330676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile3UjtLJ\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57680/devtools/browser/320ee722-7eb3-44d4-aec9-2e4202ac762d
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1681142562036	geckodriver	INFO	Listening on 127.0.0.1:58291
+1681142565092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58294" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileynuvlV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681142565691	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681142565695	Marionette	INFO	Listening on port 58308
+WebDriver BiDi listening on ws://127.0.0.1:58294
+Read port: 58308
+1681142565967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileynuvlV\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58294/devtools/browser/0c1943b6-b911-4806-9963-2b49bee85d9f
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ettings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1681142628662	geckodriver	INFO	Listening on 127.0.0.1:58403
+1681142631711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilesczICa"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681142632261	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681142632266	Marionette	INFO	Listening on port 58422
+WebDriver BiDi listening on ws://127.0.0.1:58404
+Read port: 58422
+1681142632542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileV0Y2uq\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58405/devtools/browser/301b589e-b59f-422f-9641-666c518d1b4e
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+ole.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
