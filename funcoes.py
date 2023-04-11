@@ -25,7 +25,7 @@ def esperar_clicavel(variavel, driver):
     wait.until(EC.element_to_be_clickable((By.ID, variavel)))  # aqui aplico a condição da qual espero
 
 def abrir_filtro(filtro, driver):
-    esperar_sumir(driver)
+    #esperar_sumir(driver)
     esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
     driver.find_element(by=By.ID, value="form-filtroAcss-btnOpenDlgPrefs").click()
     esperar_clicavel(filtro, driver)
