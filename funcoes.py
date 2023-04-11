@@ -127,7 +127,7 @@ def gerar_datas(data_inicio_str, data_fim_str):
     return datas
 
 def definitiva(filtro, datas):
-    # Declaração de Variaveis
+    ## Declaração de Variaveis
     user = "t034183"
     passw = "CNB@2022"
 
