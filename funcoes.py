@@ -176,12 +176,12 @@ def definitiva(filtro, datas):
 
         funcoes.filtro_data(data_inicio, data_fim, driver)
         esperar_sumir(driver)
-        funcoes.trocar_localidade("700", "0", driver) #902
+        funcoes.trocar_localidade("902", "0", driver) #902
         esperar_sumir(driver)
         funcoes.pesq_exp(driver)
 
         esperar_sumir(driver)
-        funcoes.trocar_localidade("900", "0", driver)
+        funcoes.trocar_localidade("902", "0", driver)
         esperar_sumir(driver)
         funcoes.pesq_exp(driver)
         time.sleep(1)
