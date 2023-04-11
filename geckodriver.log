@@ -13,7 +13,7 @@ DevTools listening on ws://127.0.0.1:49543/devtools/browser/5afe061f-ce6d-434f-a
 1677955481812	Marionette	INFO	Stopped listening on port 49558
 Dynamically enable window occlusion 1
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-WARNING: A blocker encountered an error while we were waiting.
+WARNING: A blocker encountered an error while we were waiting..
           Blocker:  Waiting for ping task
           Phase: TelemetryController: Waiting for pending ping activity
           State: (none)
