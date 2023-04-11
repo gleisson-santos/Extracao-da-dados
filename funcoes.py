@@ -135,7 +135,7 @@ def definitiva(filtro, datas):
     url = 'http://sciweb.embasanet.ba.gov.br/sci-web/'
 
     options = Options()
-    options.headless = True
+    #options.headless = True
 
     profile = webdriver.FirefoxProfile()
     profile.set_preference("browser.download.manager.showWhenStarting", False)
@@ -180,10 +180,10 @@ def definitiva(filtro, datas):
         esperar_sumir(driver)
         funcoes.pesq_exp(driver)
 
-        esperar_sumir(driver)
-        funcoes.trocar_localidade("902", "0", driver)
-        esperar_sumir(driver)
-        funcoes.pesq_exp(driver)
+        # esperar_sumir(driver)
+        # funcoes.trocar_localidade("902", "0", driver)
+        # esperar_sumir(driver)
+        # funcoes.pesq_exp(driver)
         time.sleep(1)
     time.sleep(10)
 

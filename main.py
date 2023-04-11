@@ -211,7 +211,7 @@ import tkinter as tk
 from tkinter import ttk
 
 # Acessar o filtro salvo
-filtro = [    "form-filtroAcss-dlgFilterPrefs-tableUser-33-j_idt349",    "form-filtroAcss-dlgFilterPrefs-tableUser-35-j_idt349"]
+filtro = ["form-filtroAcss-dlgFilterPrefs-tableUser-9-j_idt349",  "form-filtroAcss-dlgFilterPrefs-tableUser-8-j_idt349"]
 
 # Definindo função que será executada após o clique no botão "Iniciar"
 def iniciar_processo():
