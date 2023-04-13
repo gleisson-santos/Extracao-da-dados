@@ -41247,8 +41247,8 @@ console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1
 console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sciweb.embasanet.ba.gov.br."
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:60256
-1681227559609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60258" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileH5Bv7T"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60258" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileH5Bv7T"
 *** You are running in headless mode.
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
@@ -41269,7 +41269,8 @@ console.warn: services.settings: Ignoring preference override of remote settings
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-ronous message for: https://sciweb.embasanet.ba.gov.br."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+br."
 1681227695323	geckodriver	INFO	Listening on 127.0.0.1:60429
 1681227698396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "60432" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile4jiYIT"
 *** You are running in headless mode.
@@ -41292,8 +41293,8 @@ console.warn: services.settings: Ignoring preference override of remote settings
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:60557
-1681227776369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofiledVFT9g"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofiledVFT9g"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1681227776958	Marionette	INFO	Marionette enabled
@@ -41471,8 +41472,8 @@ WARNING: A blocker encountered an error while we were waiting.
           State: (none)
 WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 WARNINJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-ys.mjs:727:15
-addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ncShutdown.sys.mjs:523:26
 addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
 setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
 @resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
@@ -41510,8 +41511,8 @@ setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
 @resource://gre/modules/TelemetryStorage.sys.mjs:10:28
 _checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
 setup@resource:JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-source://gre/modules/TelemetrySend.sys.mjs:241:30
-setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+etupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
 observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
 
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
@@ -41520,8 +41521,8 @@ JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error:
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued beforeJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-O	Listening on 127.0.0.1:61314
-1681227978341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61316" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofiledNA8aF"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+er::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61316" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\GLEISS~1.SAN\\AppData\\Local\\Temp\\rust_mozprofiledNA8aF"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1681227978999	Marionette	INFO	Marionette enabled
@@ -41558,8 +41559,8 @@ setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
 setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
 setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
 observe@resource://gre/modules/AsJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-ountered an error while we were waiting.
-          Blocker:  Waiting for ping task
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Blocker:  Waiting for ping task
           Phase: TelemetryController: Waiting for pending ping activity
           State: (none)
 WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
