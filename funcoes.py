@@ -46,7 +46,6 @@ def filtro_data(data1, data2, driver):
     driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").send_keys(data2)
     time.sleep(1)
         
-
 def trocar_localidade(localidade, bairro, driver):
     time.sleep(1)
     esperar_sumir(driver)
@@ -69,7 +68,6 @@ def trocar_localidade(localidade, bairro, driver):
     esperar_sumir(driver)
     time.sleep(1)
     esperar_sumir(driver)
-
 
 num_downloads = 0
 dedos_extraidos = []
