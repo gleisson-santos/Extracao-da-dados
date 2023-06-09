@@ -16,78 +16,105 @@ import time
 import funcoes
 from datetime import datetime, timedelta
 
+
 def esperar_sumir(driver):
     wait = WebDriverWait(driver, 30)
-    element = wait.until(EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
+    element = wait.until(
+        EC.invisibility_of_element_located((By.ID, "j_idt24_modal")))
+
 
 def esperar_clicavel(variavel, driver):
-    wait = WebDriverWait(driver, 10)  # defino uma variavel com a propriedade de esperar um determinado tempo
-    wait.until(EC.element_to_be_clickable((By.ID, variavel)))  # aqui aplico a condição da qual espero
+    # defino uma variavel com a propriedade de esperar um determinado tempo
+    wait = WebDriverWait(driver, 10)
+    # aqui aplico a condição da qual espero
+    wait.until(EC.element_to_be_clickable((By.ID, variavel)))
+
 
 def abrir_filtro(filtro, driver):
-    #esperar_sumir(driver)
+    # esperar_sumir(driver)
     esperar_clicavel("form-filtroAcss-toolbox-btn-search", driver)
-    driver.find_element(by=By.ID, value="form-filtroAcss-btnOpenDlgPrefs").click()
+    driver.find_element(
+        by=By.ID, value="form-filtroAcss-btnOpenDlgPrefs").click()
     esperar_clicavel(filtro, driver)
     driver.find_element(by=By.ID, value=filtro).click()
 
+
 def filtro_data(data1, data2, driver):
     time.sleep(1)
-    driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").clear()
+    driver.find_element(
+        by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").clear()
     time.sleep(1)
-    driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").click()
+    driver.find_element(
+        by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").click()
     time.sleep(1)
-    driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").send_keys(data1)
+    driver.find_element(
+        by=By.ID, value="form-filtroAcss-dataId-dataTipo-beginDate").send_keys(data1)
     time.sleep(1)
-    driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").clear()
+    driver.find_element(
+        by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").clear()
     time.sleep(1)
-    driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").click()
+    driver.find_element(
+        by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").click()
     time.sleep(1)
-    driver.find_element(by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").send_keys(data2)
+    driver.find_element(
+        by=By.ID, value="form-filtroAcss-dataId-dataTipo-endDate").send_keys(data2)
     time.sleep(1)
-        
+
+
 def trocar_localidade(localidade, bairro, driver):
     time.sleep(1)
     esperar_sumir(driver)
-    driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").clear()
+    driver.find_element(
+        by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").clear()
     time.sleep(1)
     esperar_sumir(driver)
-    driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").click()
+    driver.find_element(
+        by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").click()
     time.sleep(1)
     esperar_sumir(driver)
-    driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").send_keys(localidade)
+    driver.find_element(
+        by=By.ID, value="form-filtroAcss-solicitacaoLocalidadeId-j_idt198-cb-input").send_keys(localidade)
     time.sleep(1)
     esperar_sumir(driver)
-    driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").clear()
+    driver.find_element(
+        by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").clear()
     time.sleep(1)
     esperar_sumir(driver)
-    driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").click()
+    driver.find_element(
+        by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").click()
     time.sleep(1)
     esperar_sumir(driver)
-    driver.find_element(by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").send_keys(bairro)
+    driver.find_element(
+        by=By.ID, value="form-filtroAcss-solicitacaoBairroId-j_idt205-bairro-input").send_keys(bairro)
     esperar_sumir(driver)
     time.sleep(1)
     esperar_sumir(driver)
 
+
 num_downloads = 0
 dedos_extraidos = []
+
+
 def pesq_exp(driver):
     global num_downloads
 
     esperar_sumir(driver)
-    WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, "form-filtroAcss-toolbox-btn-search"))).click()
+    WebDriverWait(driver, 10).until(EC.element_to_be_clickable(
+        (By.ID, "form-filtroAcss-toolbox-btn-search"))).click()
     time.sleep(2)
     esperar_sumir(driver)
-    driver.find_element(by=By.ID, value="form-filtroAcss-toolbox-btn-search").click()
+    driver.find_element(
+        by=By.ID, value="form-filtroAcss-toolbox-btn-search").click()
     esperar_sumir(driver)
     time.sleep(2)
     try:
-        driver.find_element(by=By.ID, value="form-grid-grid-exportBtn-exportarxls").click()
+        driver.find_element(
+            by=By.ID, value="form-grid-grid-exportBtn-exportarxls").click()
         time.sleep(2)
         num_downloads += 1
         dedos_extraidos.append(num_downloads)
         print(f"Planilha nº {num_downloads} extraida com sucesso!")
-    except: 
+    except:
         print("Erro Unidade de medição!")
 
 
@@ -114,7 +141,7 @@ def gerar_datas(data_inicio_str, data_fim_str):
     formato_data = '%d/%m/%Y'
     data_inicio = datetime.strptime(data_inicio_str, formato_data)
     data_fim = datetime.strptime(data_fim_str, formato_data)
-    
+
     datas = []
     delta = timedelta(days=1)
 
@@ -124,16 +151,16 @@ def gerar_datas(data_inicio_str, data_fim_str):
 
     return datas
 
-def definitiva(filtro, datas):
-    ## Declaração de Variaveis
-    user = "t034183"
-    passw = "CNB@2022"
 
+def definitiva(filtro, datas):
+    # Declaração de Variaveis
+    user = "t034183"
+    passw = "Salvadorssa2023*"
 
     url = 'http://sciweb.embasanet.ba.gov.br/sci-web/'
 
     options = Options()
-    #options.headless = True
+    # options.headless = True
 
     profile = webdriver.FirefoxProfile()
     profile.set_preference("browser.download.manager.showWhenStarting", False)
@@ -143,9 +170,12 @@ def definitiva(filtro, datas):
 
     time.sleep(1)
     # Coletar a informação da tag aleatoria gerada pelo SCI
-    randomtag = driver.find_element(by=By.ID, value="random-tag").get_attribute('value')
-    driver.find_element(by=By.ID, value="loginForm-usuario-{randomtag}".format(randomtag=randomtag)).send_keys(user)
-    driver.find_element(by=By.ID, value="loginForm-senha-{randomtag}".format(randomtag=randomtag)).send_keys(passw)
+    randomtag = driver.find_element(
+        by=By.ID, value="random-tag").get_attribute('value')
+    driver.find_element(
+        by=By.ID, value="loginForm-usuario-{randomtag}".format(randomtag=randomtag)).send_keys(user)
+    driver.find_element(
+        by=By.ID, value="loginForm-senha-{randomtag}".format(randomtag=randomtag)).send_keys(passw)
     driver.find_element(by=By.ID, value="loginForm-submit").click()
 
     # Neste bloco é feito a seleção de qual tela desejo abrir, no caso é a consulta geral
@@ -153,8 +183,10 @@ def definitiva(filtro, datas):
     driver.find_element(by=By.ID, value="arvoreSearch").send_keys("gera")
     esperar_sumir(driver)
 
-    wait = WebDriverWait(driver, 10)  # defino uma variavel com a propriedade de esperar um determinado tempo
-    element = wait.until(EC.element_to_be_clickable((By.ID, 'CRSS_anchor')))  # aqui aplico a condição da qual espero
+    # defino uma variavel com a propriedade de esperar um determinado tempo
+    wait = WebDriverWait(driver, 10)
+    # aqui aplico a condição da qual espero
+    element = wait.until(EC.element_to_be_clickable((By.ID, 'CRSS_anchor')))
 
     driver.find_element(by=By.ID, value="CRSS_anchor").click()
     driver.switch_to.frame("frame-content")
@@ -174,15 +206,14 @@ def definitiva(filtro, datas):
 
         funcoes.filtro_data(data_inicio, data_fim, driver)
         esperar_sumir(driver)
-        funcoes.trocar_localidade("902", "0", driver) #902
+        funcoes.trocar_localidade("700", "0", driver)  # 902
         esperar_sumir(driver)
         funcoes.pesq_exp(driver)
 
-        # esperar_sumir(driver)
-        # funcoes.trocar_localidade("902", "0", driver)
-        # esperar_sumir(driver)
-        # funcoes.pesq_exp(driver)
+        esperar_sumir(driver)
+
+        funcoes.trocar_localidade("900", "0", driver)
+        esperar_sumir(driver)
+        funcoes.pesq_exp(driver)
         time.sleep(1)
     time.sleep(10)
-
-
