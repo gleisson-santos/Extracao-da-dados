@@ -9,12 +9,11 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import UnexpectedAlertPresentException
-
-
 from selenium.webdriver import Firefox
+from datetime import datetime, timedelta
 import time
 import funcoes
-from datetime import datetime, timedelta
+
 
 
 def esperar_sumir(driver):
@@ -155,12 +154,12 @@ def gerar_datas(data_inicio_str, data_fim_str):
 def definitiva(filtro, datas):
     # Declaração de Variaveis
     user = "t034183"
-    passw = "Salvadorssa2023*"
+    passw = "CNB@2023*"
 
     url = 'http://sciweb.embasanet.ba.gov.br/sci-web/'
 
     options = Options()
-    # options.headless = True
+    #options.headless = True
 
     profile = webdriver.FirefoxProfile()
     profile.set_preference("browser.download.manager.showWhenStarting", False)
